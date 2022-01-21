@@ -14,6 +14,18 @@
 
 class Rectangle {
     // TODO
+    constructor(width,height){
+      this.width = width,
+      this.height = height
+    }
+
+    calculatePerimeter(){
+
+    }
+
+    calculateArea(){
+      
+    }
   }
   
   class Square extends Rectangle {
